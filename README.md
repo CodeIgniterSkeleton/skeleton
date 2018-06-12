@@ -1,4 +1,7 @@
 # CodeIgniter Skeleton
+
+[![Join the chat at https://gitter.im/CodeIgniterSkeleton/skeleton](https://badges.gitter.im/CodeIgniterSkeleton/skeleton.svg)](https://gitter.im/CodeIgniterSkeleton/skeleton?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A CodeIgniter starter kit with lots of add-ons to give you a head start when developing web application.
 
 ## What Does Contain?
